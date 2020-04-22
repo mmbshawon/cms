@@ -1,0 +1,35 @@
+﻿@model CompetencyManagement.Model.DsCategory
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>DsCategory</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DmCategory.DmCategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DmCategory.DmCategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DsCategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DsCategoryName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

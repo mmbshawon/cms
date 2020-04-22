@@ -1,0 +1,68 @@
+﻿@model IEnumerable<CompetencyManagement.Model.DmCategory>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+<!-- DataTables -->
+<link rel="stylesheet" href="~/plugins/datatables-bs4/css/dataTables.bootstrap4.css">
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="col-md-6">
+            <button class="btn btn-block btn-outline-warning">@Html.ActionLink("Add New Department Wise Main Category", "Create")</button>
+        </div>
+        <br />
+        <div class="card card-info">
+            <div class="card-header">
+                <h3 class="card-title">Department Wish Main Category List</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <table class="table table-striped table-hover table-bordered" id="FitsTable">
+                    <thead>
+                        <tr>
+                            <th>Department Name</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DmCategoryName)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("Update", "Edit", new { id = item.Id }) |
+                                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+    <script>
+        $('#FitsTable').DataTable({
+            "bFilter": true,
+            "bLengthChange": false
+        });
+    </script>
+}

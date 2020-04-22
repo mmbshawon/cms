@@ -1,0 +1,34 @@
+﻿@model CompetencyManagement.Model.DmCategory
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-2"> </div>
+    <div class="col-md-8">
+        <div class="card card-info">
+            <div class="card-header">
+                <h3 class="card-title">Delete Skill Category</h3>
+            </div>
+
+            <div class="card-body">
+                <h5>Are you sure you want to delete "<b>@Html.DisplayFor(model => model.DmCategoryName)</b>" Skill Category?</h5>
+                <br />
+                <div class="card-footer">
+                    <div>
+                        @using (Html.BeginForm())
+                        {
+                            @Html.AntiForgeryToken()
+                            <div class="form-actions no-color">
+                                <button type="submit" class="btn" style="color:red;">Confirm</button> |
+                                <button class="btn">@Html.ActionLink("Cancel", "Index")</button>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

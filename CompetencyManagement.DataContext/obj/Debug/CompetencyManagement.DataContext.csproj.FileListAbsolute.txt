@@ -1,0 +1,38 @@
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.DataContext.dll.config
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.DataContext.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.DataContext.pdb
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.Model.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\EntityFramework.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.Model.pdb
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.Model.dll.config
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\EntityFramework.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csprojAssemblyReference.cache
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.CopyComplete
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.pdb
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.migration_department.resources
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.GenerateResource.cache
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.migration1.resources
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.update_modify.resources
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.CoreCompileInputs.cache
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.dmup.resources
+D:\CMS\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.requp.resources
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.DataContext.dll.config
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.DataContext.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.DataContext.pdb
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.Model.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\EntityFramework.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.Model.pdb
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.Model.dll.config
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\EntityFramework.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csprojAssemblyReference.cache
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.CopyComplete
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.pdb
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.mig1.resources
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.GenerateResource.cache
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.position.resources

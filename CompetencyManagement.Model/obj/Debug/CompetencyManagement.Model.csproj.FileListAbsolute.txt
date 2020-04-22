@@ -1,0 +1,34 @@
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.pdb
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csprojAssemblyReference.cache
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.pdb
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.dll.config
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CopyComplete
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.dll.config
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.pdb
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csprojAssemblyReference.cache
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CopyComplete
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.pdb
+D:\CMS\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CoreCompileInputs.cache
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.dll.config
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.pdb
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csprojAssemblyReference.cache
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CopyComplete
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.pdb

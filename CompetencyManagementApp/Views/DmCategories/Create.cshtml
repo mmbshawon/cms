@@ -1,0 +1,48 @@
+﻿@model CompetencyManagement.Model.DmCategory
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-2"> </div>
+    <div class="col-md-8">
+        <div class="col-md-6">
+            <button class="btn btn-block btn-outline-warning">@Html.ActionLink("Department Wise Main Category List", "Index")</button>
+        </div>
+        <br />
+        <div class="card card-info">
+            <div class="card-header">
+                <h3 class="card-title">Add New Department Wise Main Category</h3>
+            </div>
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    <div class="card-body">
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="form-group row">
+                            @Html.LabelFor(model => model.DmCategoryName, htmlAttributes: new { @class = "col-sm-4 col-form-label" })
+                            <div class="col-md-8">
+                                @Html.EditorFor(model => model.DmCategoryName, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.DmCategoryName, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="card-footer">
+                            <button type="submit" class="btn btn-info">Submit</button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

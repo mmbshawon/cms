@@ -1,0 +1,277 @@
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagementApp.dll.config
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagementApp.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagementApp.pdb
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csc.exe
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csc.exe.config
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csc.rsp
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csi.exe
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csi.exe.config
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csi.rsp
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.AppContext.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Console.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Net.Http.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\vbc.exe
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\vbc.exe.config
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\vbc.rsp
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\Antlr3.Runtime.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Net.Http.Formatting.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Helpers.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.WebHost.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Mvc.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Optimization.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Razor.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\WebGrease.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Helpers.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Mvc.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Optimization.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Razor.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\Newtonsoft.Json.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\Antlr3.Runtime.pdb
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Net.Http.Formatting.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.WebHost.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csprojAssemblyReference.cache
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csproj.CopyComplete
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.pdb
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.xml
+C:\Users\masum_billah\source\repos\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.SqlServer.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagementApp.dll.config
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagementApp.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagementApp.pdb
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csc.exe
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csc.exe.config
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csc.rsp
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csi.exe
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csi.exe.config
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csi.rsp
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.AppContext.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Collections.Immutable.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Console.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.Compression.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.FileSystem.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Net.Http.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Net.Sockets.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.ValueTuple.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.XPath.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\vbc.exe
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\vbc.exe.config
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\vbc.rsp
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\VBCSCompiler.exe
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\VBCSCompiler.exe.config
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\Antlr3.Runtime.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.SqlServer.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\Newtonsoft.Json.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Net.Http.Formatting.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Helpers.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.WebHost.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Mvc.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Optimization.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Razor.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\WebGrease.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.SqlServer.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Helpers.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Mvc.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Optimization.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Razor.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\Newtonsoft.Json.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\Antlr3.Runtime.pdb
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Net.Http.Formatting.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.WebHost.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csprojAssemblyReference.cache
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csproj.CopyComplete
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.pdb
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.DataContext.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.Model.dll
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.DataContext.pdb
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.DataContext.dll.config
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.Model.pdb
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.Model.dll.config
+D:\CMS\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csproj.CoreCompileInputs.cache
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagementApp.dll.config
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagementApp.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagementApp.pdb
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csc.exe
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csc.exe.config
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csc.rsp
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csi.exe
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csi.exe.config
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\csi.rsp
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.AppContext.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Collections.Immutable.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Console.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Globalization.Calendars.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.Compression.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.FileSystem.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Net.Http.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Net.Sockets.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.ValueTuple.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.XPath.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\vbc.exe
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\vbc.exe.config
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\vbc.rsp
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\VBCSCompiler.exe
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\roslyn\VBCSCompiler.exe.config
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\Antlr3.Runtime.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.DataContext.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.Model.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.SqlServer.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\Microsoft.Web.Infrastructure.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\Newtonsoft.Json.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Net.Http.Formatting.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Helpers.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.WebHost.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Mvc.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Optimization.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Razor.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Deployment.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Razor.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\WebGrease.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.DataContext.pdb
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.DataContext.dll.config
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.Model.pdb
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\CompetencyManagement.Model.dll.config
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\EntityFramework.SqlServer.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Helpers.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Mvc.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Optimization.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Razor.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Deployment.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.WebPages.Razor.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\Newtonsoft.Json.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\Antlr3.Runtime.pdb
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Net.Http.Formatting.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\System.Web.Http.WebHost.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csprojAssemblyReference.cache
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csproj.CopyComplete
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.dll
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.pdb
