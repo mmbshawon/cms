@@ -20,7 +20,7 @@ namespace CompetencyManagement.DataContext
         public DbSet<DmCategory> dmCategories { get; set; }
         public DbSet<DsCategory> dsCategories { get; set; }
         public DbSet<Dskill> dskills { get; set; }
-
+        public DbSet<DSkillsAssignment> dSkillsAssignments { get; set; }
         //Position DB
         public DbSet<Position> positions { get; set; }
         public DbSet<PmCategory> pmCategories { get; set; }

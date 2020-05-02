@@ -145,6 +145,7 @@
     <Compile Include="Controllers\DepartmentsController.cs" />
     <Compile Include="Controllers\DmCategoriesController.cs" />
     <Compile Include="Controllers\DsCategoriesController.cs" />
+    <Compile Include="Controllers\DSkillsAssignmentsController.cs" />
     <Compile Include="Controllers\DskillsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PmCategoriesController.cs" />
@@ -2014,6 +2015,11 @@
     <Content Include="Views\Pskills\Details.cshtml" />
     <Content Include="Views\Pskills\Edit.cshtml" />
     <Content Include="Views\Pskills\Index.cshtml" />
+    <Content Include="Views\DSkillsAssignments\Create.cshtml" />
+    <Content Include="Views\DSkillsAssignments\Delete.cshtml" />
+    <Content Include="Views\DSkillsAssignments\Details.cshtml" />
+    <Content Include="Views\DSkillsAssignments\Edit.cshtml" />
+    <Content Include="Views\DSkillsAssignments\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

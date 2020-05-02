@@ -36,3 +36,5 @@ E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataCo
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.mig1.resources
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.GenerateResource.cache
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.position.resources
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.CoreCompileInputs.cache
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.D_Assignment.resources

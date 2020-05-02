@@ -61,6 +61,10 @@
     <Compile Include="Migrations\202004081037380_position.designer.cs">
       <DependentUpon>202004081037380_position.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202004230521441_D_Assignment.cs" />
+    <Compile Include="Migrations\202004230521441_D_Assignment.designer.cs">
+      <DependentUpon>202004230521441_D_Assignment.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -80,6 +84,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004081037380_position.resx">
       <DependentUpon>202004081037380_position.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004230521441_D_Assignment.resx">
+      <DependentUpon>202004230521441_D_Assignment.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

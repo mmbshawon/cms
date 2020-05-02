@@ -32,3 +32,4 @@ E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CopyComplete
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.dll
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.pdb
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CoreCompileInputs.cache
