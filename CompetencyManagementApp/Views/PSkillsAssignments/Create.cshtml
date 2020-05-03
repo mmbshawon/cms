@@ -1,0 +1,143 @@
+﻿@model CompetencyManagement.Model.PSkillsAssignment
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-2"> </div>
+    <div class="col-md-8">
+        <div class="col-md-6">
+            <button class="btn btn-block btn-outline-warning">@Html.ActionLink("Skills List", "Index")</button>
+        </div>
+        <br />
+        <div class="card card-info">
+            <div class="card-header">
+                <h3 class="card-title">Add New Position Wise Skill</h3>
+            </div>
+
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    <div class="card-body">
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="form-group row">
+                            @Html.LabelFor(model => model.PositionId, "Department", htmlAttributes: new { @class = "control-label col-md-4" })
+                            <div class="col-md-8">
+                                @Html.DropDownList("PositionId", null, htmlAttributes: new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.PositionId, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            @Html.Label("Main Category", htmlAttributes: new { @class = "control-label col-md-4" })
+                            <div class="col-md-8">
+                                @Html.DropDownList("PmCategoryId", null, null, htmlAttributes: new { @class = "form-control" })
+
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            @Html.Label("Sub Category", htmlAttributes: new { @class = "control-label col-md-4" })
+                            <div class="col-md-8">
+                                @Html.DropDownList("PsCategoryId", null, htmlAttributes: new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            @Html.LabelFor(model => model.PskillId, "Skill", htmlAttributes: new { @class = "control-label col-md-4" })
+                            <div class="col-md-8">
+                                @Html.DropDownList("PskillId", null, htmlAttributes: new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.PskillId, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="card-footer">
+                            <button type="submit" class="btn btn-info">Submit</button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @*@*<script src="~/Scripts/jquery-3.3.1.js"></script>*@
+
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //1. on course dropdown chage ->
+            $('#PmCategoryId').change(function () {
+                //request for Course/GetTraineeBy?courseid=courseDD value
+                var pmCategoryId = $('#PmCategoryId').val();
+                var data = { PmCategoryId: pmCategoryId };
+                $.ajax({
+                    type: "POST",
+                    url: "/PSkillsAssignments/GetPsCategory",
+                    data: JSON.stringify(data),
+                    contentType: "application/json",
+                    success: function (response) {
+                        var psCategoryDropDown = $('#PsCategoryId');
+                        psCategoryDropDown.empty();
+                        var defaultOption = "<option value=''>....Select...</option>";
+                        psCategoryDropDown.append(defaultOption);
+
+                        $.each(response, function (key, psCategory) {
+                            var option = "<option value='" + psCategory.Id + "'>" + psCategory.PsCategoryName + "</option>";
+                            psCategoryDropDown.append(option);
+                        });
+
+                    },
+                    error: function (response) {
+                        alert("Error!");
+                    }
+                });
+
+            })
+
+
+            //2. get json response and bind data in trainee dropdown
+
+        });</script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //1. on course dropdown chage ->
+            $('#PsCategoryId').change(function () {
+                //request for Course/GetTraineeBy?courseid=courseDD value
+                var psCategoryId = $('#PsCategoryId').val();
+                var data = { PsCategoryId: psCategoryId };
+                $.ajax({
+                    type: "POST",
+                    url: "/PSkillsAssignments/GetPskill",
+                    data: JSON.stringify(data),
+                    contentType: "application/json",
+                    success: function (response) {
+                        var pSkillDropDown = $('#PskillId');
+                        pSkillDropDown.empty();
+                        var defaultOption = "<option value=''>....Select...</option>";
+                        pSkillDropDown.append(defaultOption);
+
+                        $.each(response, function (key, pSkill) {
+                            var option = "<option value='" + pSkill.Id + "'>" + pSkill.PskillName + "</option>";
+                            pSkillDropDown.append(option);
+                        });
+
+                    },
+                    error: function (response) {
+                        alert("Error!");
+                    }
+                });
+
+            })
+
+
+            //2. get json response and bind data in trainee dropdown
+
+        });</script>
+
+}

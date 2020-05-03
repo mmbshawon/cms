@@ -65,6 +65,10 @@
     <Compile Include="Migrations\202004230521441_D_Assignment.designer.cs">
       <DependentUpon>202004230521441_D_Assignment.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202005030737271_uppdatepskillassg.cs" />
+    <Compile Include="Migrations\202005030737271_uppdatepskillassg.designer.cs">
+      <DependentUpon>202005030737271_uppdatepskillassg.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -87,6 +91,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004230521441_D_Assignment.resx">
       <DependentUpon>202004230521441_D_Assignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005030737271_uppdatepskillassg.resx">
+      <DependentUpon>202005030737271_uppdatepskillassg.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

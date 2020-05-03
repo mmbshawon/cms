@@ -26,6 +26,7 @@ namespace CompetencyManagement.DataContext
         public DbSet<PmCategory> pmCategories { get; set; }
         public DbSet<PsCategory> psCategories { get; set; }
         public DbSet<Pskill> pskills { get; set; }
+        public DbSet<PSkillsAssignment> pSkillsAssignments { get; set; }
 
     }
 }
