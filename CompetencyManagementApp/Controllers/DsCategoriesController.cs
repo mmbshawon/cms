@@ -18,6 +18,7 @@ namespace CompetencyManagementApp.Controllers
         // GET: DsCategories
         public ActionResult Index()
         {
+            //Need to Change
             var dsCategories = db.dsCategories.Include(d => d.DmCategory);
             return View(dsCategories.ToList());
         }
