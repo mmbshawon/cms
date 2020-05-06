@@ -39,3 +39,5 @@ E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataCo
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.CoreCompileInputs.cache
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.D_Assignment.resources
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.uppdatepskillassg.resources
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.emplyupdt.resources
+E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.emupdate.resources

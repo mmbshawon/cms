@@ -147,6 +147,7 @@
     <Compile Include="Controllers\DsCategoriesController.cs" />
     <Compile Include="Controllers\DSkillsAssignmentsController.cs" />
     <Compile Include="Controllers\DskillsController.cs" />
+    <Compile Include="Controllers\EmployeesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PmCategoriesController.cs" />
     <Compile Include="Controllers\PositionsController.cs" />
@@ -2026,6 +2027,11 @@
     <Content Include="Views\PSkillsAssignments\Details.cshtml" />
     <Content Include="Views\PSkillsAssignments\Edit.cshtml" />
     <Content Include="Views\PSkillsAssignments\Index.cshtml" />
+    <Content Include="Views\Employees\Create.cshtml" />
+    <Content Include="Views\Employees\Delete.cshtml" />
+    <Content Include="Views\Employees\Details.cshtml" />
+    <Content Include="Views\Employees\Edit.cshtml" />
+    <Content Include="Views\Employees\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

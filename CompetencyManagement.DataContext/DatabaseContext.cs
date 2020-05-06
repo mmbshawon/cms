@@ -21,12 +21,17 @@ namespace CompetencyManagement.DataContext
         public DbSet<DsCategory> dsCategories { get; set; }
         public DbSet<Dskill> dskills { get; set; }
         public DbSet<DSkillsAssignment> dSkillsAssignments { get; set; }
+       
         //Position DB
         public DbSet<Position> positions { get; set; }
         public DbSet<PmCategory> pmCategories { get; set; }
         public DbSet<PsCategory> psCategories { get; set; }
         public DbSet<Pskill> pskills { get; set; }
         public DbSet<PSkillsAssignment> pSkillsAssignments { get; set; }
+
+        //Employee DB
+        public DbSet<EmployeeStatus> employeeStatuses { get; set; }
+        public DbSet<Employee> employees { get; set; }
 
     }
 }
