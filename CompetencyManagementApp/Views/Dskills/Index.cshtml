@@ -1,4 +1,4 @@
-﻿@model IEnumerable<CompetencyManagement.Model.Dskill>
+﻿@model CompetencyManagement.Model.AllSkillViewModels
 
 @{
     ViewBag.Title = "Index";
@@ -32,25 +32,69 @@
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (var item in Model)
+                        @foreach (var row in Model.DmCategories)
                         {
-                        <tr>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.DsCategory.DmCategory.DmCategoryName)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.DsCategory.DsCategoryName)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.DskillName)
-                            </td>
-                            <td>
-                                @Html.ActionLink("Update", "Edit", new { id = item.Id }) |
-                                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
-                            </td>
-                        </tr>
+                            <tr>
+                               
+                                <td>
+
+                                    @Html.DisplayFor(modelItem => row.DmCategoryName)
+
+                                </td>
+                                <td colspan="3">
+
+                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                        @foreach (var catItem in Model.DsCategories)
+                                        {
+                                            if (catItem.DmCategoryId == row.Id)
+                                            {
+                                                <tr>
+                                                    <td width="60%">
+                                                        @Html.DisplayFor(modelItem => catItem.DsCategoryName)
+                                                    </td>
+                                                    <td width="40%">
+                                                       <table>
+
+                                                           @foreach(var skillItem in Model.Dskills)
+                                                           {
+                                                               if(skillItem.DsCategoryId == catItem.Id)
+                                                               {
+
+                                                           <tr>
+                                                               <td width="60%">
+                                                                   @Html.DisplayFor(modelItem => skillItem.DskillName)
+                                                               </td>
+                                                               <td width="40%">
+                                                                   @Html.ActionLink("Update", "Edit", new { id = skillItem.Id }) |
+                                                                   @Html.ActionLink("Delete", "Delete", new { id = skillItem.Id })
+                                                               </td>
+                                                           </tr>
+                                                               }
+                                                           }
+                                                       </table>
+                                                    
+                                                    </td>
+                                                </tr>
+                                            }
+
+
+                                        }
+
+                                    </table>
+
+
+
+                                </td>
+
+                            </tr>
                         }
+
+
+
+
                     </tbody>
+
+
                 </table>
             </div>
             <!-- /.card-body -->
