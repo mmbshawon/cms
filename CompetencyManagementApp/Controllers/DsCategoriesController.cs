@@ -9,6 +9,7 @@ using System.Web.Mvc;
 using CompetencyManagement.DataContext;
 using CompetencyManagement.Model;
 
+
 namespace CompetencyManagementApp.Controllers
 {
     public class DsCategoriesController : Controller
@@ -18,9 +19,20 @@ namespace CompetencyManagementApp.Controllers
         // GET: DsCategories
         public ActionResult Index()
         {
-            var dsCategories = db.dsCategories.Include(d => d.DmCategory);
-            return View(dsCategories.ToList());
+            AllSkillViewModels viewModel = new AllSkillViewModels();
+            viewModel.DsCategories = db.dsCategories.ToList();//first table content
+            viewModel.DmCategories = db.dmCategories.ToList(); //second table content
+            return View(viewModel);
+
+            //Need to Change
+            //var dsCategories = db.dsCategories.Include(d => d.DmCategory);
+            //var dmCategories = db.dmCategories;
+            //var dsCategories = db.dsCategories;
+            // return View(dsCategories.ToList());
         }
+
+
+
 
         // GET: DsCategories/Details/5
         public ActionResult Details(int? id)
