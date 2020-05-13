@@ -1,32 +1,36 @@
-﻿@model IEnumerable<CompetencyManagement.Model.PmCategory>
+﻿@model IEnumerable<CompetencyManagement.Model.Employee>
 
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-
 <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet" />
 
 <!-- DataTables -->
 <link rel="stylesheet" href="~/plugins/datatables-bs4/css/dataTables.bootstrap4.css">
 <div class="row">
-    
-    <div class="col-md-12">
-        <div class="col-md-6">
-            <button class="btn btn-block btn-outline-warning">@Html.ActionLink("Add New Position Wise Main Category", "Create")</button>
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+        <div class="col-md-4">
+            <button class="btn btn-block btn-outline-warning">@Html.ActionLink("Add New Department", "Create")</button>
         </div>
         <br />
         <div class="card card-info">
             <div class="card-header">
-                <h3 class="card-title">Position Wish Main Category List</h3>
+                <h3 class="card-title">Department List</h3>
             </div>
             <!-- /.card-header -->
             <div class="card-body">
                 <table class="table table-striped table-hover table-bordered" id="FitsTable">
                     <thead>
                         <tr>
-                            <th>Main Category</th>
+                            <th>Employee Name</th>
+                            <th>Position</th>
+                            <th>Department</th>
+                            <th>Status</th>
+                            <th>Joining Date</th>
+                            <th>Email</th>
                             <th>Action</th>
                         </tr>
                     </thead>
@@ -35,7 +39,22 @@
                         {
                             <tr>
                                 <td>
-                                    @Html.DisplayFor(modelItem => item.PmCategoryName)
+                                    @Html.DisplayFor(modelItem => item.EmployeeName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Position.PositionName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Department.DepartmentName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.EmployeeStatus.StatusName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.EmpoloyeeJoiningDate)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.EmpoloyeeEmail)
                                 </td>
                                 <td>
                                     @Html.ActionLink("Update", "Edit", new { id = item.Id }) |
@@ -50,9 +69,6 @@
         </div>
     </div>
 </div>
-
-
-
 
 
 

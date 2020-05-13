@@ -1,0 +1,83 @@
+﻿@model CompetencyManagement.Model.Employee
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Department.DepartmentName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Department.DepartmentName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeStatus.StatusName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeStatus.StatusName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Position.PositionName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Position.PositionName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpoloyeeJoiningDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpoloyeeJoiningDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpoloyeeEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpoloyeeEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpoloyeeUserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpoloyeeUserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpoloyeePassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpoloyeePassword)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AllSkillViewModels.cs" />
     <Compile Include="Department.cs" />
     <Compile Include="DmCategory.cs" />
     <Compile Include="DsCategory.cs" />

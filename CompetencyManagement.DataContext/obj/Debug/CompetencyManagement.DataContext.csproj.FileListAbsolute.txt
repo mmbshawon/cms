@@ -39,3 +39,23 @@ E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataCo
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.CoreCompileInputs.cache
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.D_Assignment.resources
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.uppdatepskillassg.resources
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.DataContext.dll.config
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.DataContext.dll
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.DataContext.pdb
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.Model.dll
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\bin\Debug\EntityFramework.dll
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.Model.pdb
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\bin\Debug\CompetencyManagement.Model.dll.config
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\bin\Debug\EntityFramework.xml
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csprojAssemblyReference.cache
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.mig1.resources
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.position.resources
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.D_Assignment.resources
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.Migrations.uppdatepskillassg.resources
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.GenerateResource.cache
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.CoreCompileInputs.cache
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.csproj.CopyComplete
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.dll
+F:\LeadsCMS\cms\CompetencyManagement.DataContext\obj\Debug\CompetencyManagement.DataContext.pdb

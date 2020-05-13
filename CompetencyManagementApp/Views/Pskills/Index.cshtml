@@ -1,4 +1,4 @@
-﻿@model IEnumerable<CompetencyManagement.Model.Pskill>
+﻿@model CompetencyManagement.Model.AllSkillViewModels
 
 @{
     ViewBag.Title = "Index";
@@ -10,8 +10,8 @@
 <!-- DataTables -->
 <link rel="stylesheet" href="~/plugins/datatables-bs4/css/dataTables.bootstrap4.css">
 <div class="row">
-    <div class="col-md-2"></div>
-    <div class="col-md-8">
+    
+    <div class="col-md-12">
         <div class="col-md-6">
             <button class="btn btn-block btn-outline-warning">@Html.ActionLink("Add New Position Wise Skill", "Create")</button>
         </div>
@@ -25,32 +25,76 @@
                 <table class="table table-striped table-hover table-bordered" id="FitsTable">
                     <thead>
                         <tr>
-                            <th>Main Category</th>
-                            <th>Sub Category</th>
-                            <th>Skills</th>
-                            <th>Action</th>
+                            <th width="25%">Main Category</th>
+                            <th width="25%">Sub Category</th>
+                            <th width="25%">Skills</th>
+                            <th width="25%">Action</th>
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (var item in Model)
+                        @foreach (var row in Model.pmCategories)
                         {
                             <tr>
+
                                 <td>
-                                    @Html.DisplayFor(modelItem => item.PsCategory.PmCategory.PmCategoryName)
+
+                                    @Html.DisplayFor(modelItem => row.PmCategoryName)
+
                                 </td>
-                                <td>
-                                    @Html.DisplayFor(modelItem => item.PsCategory.PsCategoryName)
+                                <td colspan="3">
+
+                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                        @foreach (var catItem in Model.psCategories)
+                                        {
+                                            if (catItem.PmCategoryId == row.Id)
+                                            {
+                                                <tr>
+                                                    <td width="30%">
+                                                        @Html.DisplayFor(modelItem => catItem.PsCategoryName)
+                                                    </td>
+                                                    <td width="70%">
+                                                        <table width="100%">
+
+                                                            @foreach (var skillItem in Model.pskills)
+                                                            {
+                                                                if (skillItem.PsCategoryId == catItem.Id)
+                                                                {
+
+                                                                    <tr>
+                                                                        <td width="50%">
+                                                                            @Html.DisplayFor(modelItem => skillItem.PskillName)
+                                                                        </td>
+                                                                        <td width="50%">
+                                                                            @Html.ActionLink("Update", "Edit", new { id = skillItem.Id }) |
+                                                                            @Html.ActionLink("Delete", "Delete", new { id = skillItem.Id })
+                                                                        </td>
+                                                                    </tr>
+                                                                }
+                                                            }
+                                                        </table>
+
+                                                    </td>
+                                                </tr>
+                                            }
+
+
+                                        }
+
+                                    </table>
+
+
+
                                 </td>
-                                <td>
-                                    @Html.DisplayFor(modelItem => item.PskillName)
-                                </td>
-                                <td>
-                                    @Html.ActionLink("Update", "Edit", new { id = item.Id }) |
-                                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
-                                </td>
+
                             </tr>
                         }
+
+
+
+
                     </tbody>
+
+
                 </table>
             </div>
             <!-- /.card-body -->
