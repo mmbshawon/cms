@@ -58,6 +58,8 @@
     <Compile Include="DsCategory.cs" />
     <Compile Include="Dskill.cs" />
     <Compile Include="DSkillsAssignment.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeStatus.cs" />
     <Compile Include="PmCategory.cs" />
     <Compile Include="Position.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

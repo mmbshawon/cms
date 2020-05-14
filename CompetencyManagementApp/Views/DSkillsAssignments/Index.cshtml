@@ -72,14 +72,14 @@
                                                                         <td width="60%">
                                                                             <table width="100%">
 
-                                                                                @foreach (var skillItem in Model.Dskills)
+                                                                                @foreach (var skillItem in Model.dSkillsAssignments)
                                                                                 {
-                                                                                    if (skillItem.DsCategoryId == catItem.Id)
+                                                                                    if (skillItem.Dskill.DsCategoryId == catItem.Id)
                                                                                     {
 
                                                                                         <tr>
                                                                                             <td width="50%">
-                                                                                                @Html.DisplayFor(modelItem => skillItem.DskillName)
+                                                                                                @Html.DisplayFor(modelItem => skillItem.Dskill.DskillName)
                                                                                             </td>
                                                                                             <td width="50%">
                                                                                                 @Html.ActionLink("Update", "Edit", new { id = skillItem.Id }) |

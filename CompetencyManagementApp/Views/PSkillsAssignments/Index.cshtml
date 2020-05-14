@@ -71,23 +71,23 @@
                                                                             <td width="60%">
                                                                                 <table width="100%">
 
-                                                                                    @foreach (var skillItem in Model.pskills)
+                                                                                    @foreach (var skillItem in Model.pSkillsAssignments)
                                                                                     {
-                                                                                        if (skillItem.PsCategoryId == catItem.Id)
+                                                                                        if (skillItem.Pskill.PsCategoryId == catItem.Id)
                                                                                         {
-
-                                                                                            <tr>
-                                                                                                <td width="50%">
-                                                                                                    @Html.DisplayFor(modelItem => skillItem.PskillName)
-                                                                                                </td>
-                                                                                                <td width="50%">
-                                                                                                    @Html.ActionLink("Update", "Edit", new { id = skillItem.Id }) |
-                                                                                                    @Html.ActionLink("Delete", "Delete", new { id = skillItem.Id })
-                                                                                                </td>
-                                                                                            </tr>
-                                                                                        }
-                                                                                    }
-                                                                                </table>
+                                                                                         
+                                                                                                    <tr>
+                                                                                                        <td width="50%">
+                                                                                                            @Html.DisplayFor(modelItem => skillItem.Pskill.PskillName)
+                                                                                                        </td>
+                                                                                                        <td width="50%">
+                                                                                                            @Html.ActionLink("Update", "Edit", new { id = skillItem.Id }) |
+                                                                                                            @Html.ActionLink("Delete", "Delete", new { id = skillItem.Id })
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                }
+                                                                                            }
+                                                                                        </table>
 
                                                                             </td>
                                                                         </tr>

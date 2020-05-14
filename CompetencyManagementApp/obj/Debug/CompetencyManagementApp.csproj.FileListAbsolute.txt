@@ -276,98 +276,98 @@ E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\obj
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.dll
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.pdb
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csproj.CoreCompileInputs.cache
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\CompetencyManagementApp.dll.config
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\CompetencyManagementApp.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\CompetencyManagementApp.pdb
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\csc.exe
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\csc.exe.config
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\csc.rsp
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\csi.exe
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\csi.exe.config
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\csi.rsp
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.Managed.Core.targets
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\Microsoft.Win32.Primitives.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.AppContext.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Collections.Immutable.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Console.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Diagnostics.StackTrace.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Globalization.Calendars.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.IO.Compression.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.IO.Compression.ZipFile.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.IO.FileSystem.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Net.Http.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Net.Sockets.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Reflection.Metadata.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Text.Encoding.CodePages.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.ValueTuple.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Xml.ReaderWriter.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Xml.XmlDocument.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Xml.XPath.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\System.Xml.XPath.XDocument.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\vbc.exe
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\vbc.exe.config
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\vbc.rsp
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\VBCSCompiler.exe
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\roslyn\VBCSCompiler.exe.config
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\Antlr3.Runtime.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\CompetencyManagement.DataContext.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\CompetencyManagement.Model.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\EntityFramework.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\EntityFramework.SqlServer.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\Microsoft.Web.Infrastructure.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\Newtonsoft.Json.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Net.Http.Formatting.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Helpers.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Http.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Http.WebHost.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Mvc.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Optimization.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Razor.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.WebPages.Deployment.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.WebPages.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.WebPages.Razor.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\WebGrease.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\CompetencyManagement.DataContext.pdb
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\CompetencyManagement.DataContext.dll.config
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\CompetencyManagement.Model.pdb
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\CompetencyManagement.Model.dll.config
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\EntityFramework.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\EntityFramework.SqlServer.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Helpers.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Mvc.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Optimization.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Razor.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.WebPages.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.WebPages.Deployment.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.WebPages.Razor.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\Newtonsoft.Json.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\Antlr3.Runtime.pdb
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Net.Http.Formatting.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Http.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\System.Web.Http.WebHost.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\LeadsCMS\cms\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csprojAssemblyReference.cache
-F:\LeadsCMS\cms\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csproj.CoreCompileInputs.cache
-F:\LeadsCMS\cms\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csproj.CopyComplete
-F:\LeadsCMS\cms\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.dll
-F:\LeadsCMS\cms\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.pdb
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\CompetencyManagementApp.dll.config
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\CompetencyManagementApp.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\CompetencyManagementApp.pdb
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\csc.exe
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\csc.exe.config
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\csc.rsp
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\csi.exe
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\csi.exe.config
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\csi.rsp
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.AppContext.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Collections.Immutable.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Console.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Globalization.Calendars.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.IO.Compression.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.IO.FileSystem.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Net.Http.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Net.Sockets.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.ValueTuple.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Xml.XPath.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\vbc.exe
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\vbc.exe.config
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\vbc.rsp
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\VBCSCompiler.exe
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\roslyn\VBCSCompiler.exe.config
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\Antlr3.Runtime.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\CompetencyManagement.DataContext.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\CompetencyManagement.Model.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\EntityFramework.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\EntityFramework.SqlServer.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\Microsoft.Web.Infrastructure.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\Newtonsoft.Json.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Net.Http.Formatting.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Helpers.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Http.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Http.WebHost.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Mvc.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Optimization.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Razor.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.WebPages.Deployment.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.WebPages.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.WebPages.Razor.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\WebGrease.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\CompetencyManagement.DataContext.pdb
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\CompetencyManagement.DataContext.dll.config
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\CompetencyManagement.Model.pdb
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\CompetencyManagement.Model.dll.config
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\EntityFramework.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\EntityFramework.SqlServer.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Helpers.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Mvc.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Optimization.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Razor.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.WebPages.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.WebPages.Deployment.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.WebPages.Razor.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\Newtonsoft.Json.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\Antlr3.Runtime.pdb
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Net.Http.Formatting.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Http.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\System.Web.Http.WebHost.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csprojAssemblyReference.cache
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csproj.CoreCompileInputs.cache
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.csproj.CopyComplete
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagementApp\obj\Debug\CompetencyManagementApp.pdb

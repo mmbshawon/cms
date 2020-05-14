@@ -28,20 +28,19 @@ E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.dll
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.xml
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.xml
-E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csprojAssemblyReference.cache
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CopyComplete
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.dll
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.pdb
 E:\office work\Drive Up\Apps\CompetencyManagementApp\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CoreCompileInputs.cache
-F:\LeadsCMS\cms\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.dll.config
-F:\LeadsCMS\cms\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.dll
-F:\LeadsCMS\cms\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.pdb
-F:\LeadsCMS\cms\CompetencyManagement.Model\bin\Debug\EntityFramework.dll
-F:\LeadsCMS\cms\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.dll
-F:\LeadsCMS\cms\CompetencyManagement.Model\bin\Debug\EntityFramework.xml
-F:\LeadsCMS\cms\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.xml
-F:\LeadsCMS\cms\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CoreCompileInputs.cache
-F:\LeadsCMS\cms\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CopyComplete
-F:\LeadsCMS\cms\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.dll
-F:\LeadsCMS\cms\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.pdb
-F:\LeadsCMS\cms\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csprojAssemblyReference.cache
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.dll.config
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\bin\Debug\CompetencyManagement.Model.pdb
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\bin\Debug\EntityFramework.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\bin\Debug\EntityFramework.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csprojAssemblyReference.cache
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CoreCompileInputs.cache
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.csproj.CopyComplete
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.dll
+E:\office work\Drive Up\Apps\cms-master\cms-master\CompetencyManagement.Model\obj\Debug\CompetencyManagement.Model.pdb

@@ -69,6 +69,14 @@
     <Compile Include="Migrations\202005030737271_uppdatepskillassg.designer.cs">
       <DependentUpon>202005030737271_uppdatepskillassg.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202005060810296_emplyupdt.cs" />
+    <Compile Include="Migrations\202005060810296_emplyupdt.designer.cs">
+      <DependentUpon>202005060810296_emplyupdt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202005060838081_emupdate.cs" />
+    <Compile Include="Migrations\202005060838081_emupdate.designer.cs">
+      <DependentUpon>202005060838081_emupdate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -94,6 +102,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202005030737271_uppdatepskillassg.resx">
       <DependentUpon>202005030737271_uppdatepskillassg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005060810296_emplyupdt.resx">
+      <DependentUpon>202005060810296_emplyupdt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005060838081_emupdate.resx">
+      <DependentUpon>202005060838081_emupdate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

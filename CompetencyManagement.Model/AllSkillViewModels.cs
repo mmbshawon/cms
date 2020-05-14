@@ -12,11 +12,14 @@ namespace CompetencyManagement.Model
         public List<DmCategory> DmCategories { get; set; }
         public List<DsCategory> DsCategories { get; set; }
         public List<Dskill> Dskills { get; set; }
+        public List<DSkillsAssignment> dSkillsAssignments { get; set; }
+   
         //Positionwise
         public List<Position> Positions { get; set; }
         public List <PmCategory> pmCategories { get; set; }
         public List<PsCategory> psCategories { get; set; }
         public List<Pskill> pskills { get; set; }
+        public List<PSkillsAssignment> pSkillsAssignments { get; set; }
 
     }
 }

@@ -26,6 +26,8 @@ namespace CompetencyManagementApp.Controllers
             viewModel.psCategories = db.psCategories.ToList();//first table content
             viewModel.pmCategories = db.pmCategories.ToList(); //second table content
             viewModel.pskills = db.pskills.ToList();
+            viewModel.pSkillsAssignments = db.pSkillsAssignments.Include(d => d.Position).Include(d => d.Pskill).ToList();
+
             return View(viewModel);
         }
 

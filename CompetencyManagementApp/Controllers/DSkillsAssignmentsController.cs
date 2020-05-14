@@ -25,6 +25,7 @@ namespace CompetencyManagementApp.Controllers
             viewModel.DsCategories = db.dsCategories.ToList();//first table content
             viewModel.DmCategories = db.dmCategories.ToList(); //second table content
             viewModel.Dskills = db.dskills.ToList();
+            viewModel.dSkillsAssignments = db.dSkillsAssignments.Include(d => d.Department).Include(d => d.Dskill).ToList();
             return View(viewModel);
         }
 
