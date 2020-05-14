@@ -1,4 +1,4 @@
-﻿@model IEnumerable<CompetencyManagement.Model.PsCategory>
+﻿@model CompetencyManagement.Model.AllSkillViewModels
 
 @{
     ViewBag.Title = "Index";
@@ -11,8 +11,8 @@
 <!-- DataTables -->
 <link rel="stylesheet" href="~/plugins/datatables-bs4/css/dataTables.bootstrap4.css">
 <div class="row">
-    <div class="col-md-2"></div>
-    <div class="col-md-8">
+    
+    <div class="col-md-12">
         <div class="col-md-6">
             <button class="btn btn-block btn-outline-warning">@Html.ActionLink("Add New Position Wise Main Category", "Create")</button>
         </div>
@@ -31,23 +31,54 @@
                             <th>Action</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        @foreach (var item in Model)
-                        {
-                            <tr>
-                                <td>
-                                    @Html.DisplayFor(modelItem => item.PmCategory.PmCategoryName)
-                                </td>
-                                <td>
-                                    @Html.DisplayFor(modelItem => item.PsCategoryName)
-                                </td>
-                                <td>
-                                    @Html.ActionLink("Update", "Edit", new { id = item.Id }) |
-                                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
-                                </td>
-                            </tr>
-                        }
-                    </tbody>
+                   
+                            <tbody>
+                                @foreach (var row in Model.pmCategories)
+                                {
+                                    <tr>
+                                        
+                                        <td>
+
+                                            @Html.DisplayFor(modelItem => row.PmCategoryName)
+
+                                        </td>
+                                        <td colspan="2">
+
+                                            <table width="100%" cellpadding="0" cellspacing="0">
+                                                @foreach (var catItem in Model.psCategories)
+                                                {
+                                                    if (catItem.PmCategoryId == row.Id)
+                                                    {
+                                                        <tr>
+                                                            <td width="60%">
+                                                                @Html.DisplayFor(modelItem => catItem.PsCategoryName)
+                                                            </td>
+                                                            <td width="40%">
+                                                                @Html.ActionLink("Update", "Edit", new { id = catItem.Id }) |
+                                                                @Html.ActionLink("Delete", "Delete", new { id = catItem.Id })
+                                                            </td>
+                                                        </tr>
+                                                    }
+
+
+                                                }
+
+                                            </table>
+
+
+
+                                        </td>
+
+                                    </tr>
+                                }
+
+
+
+
+                            </tbody>
+
+                       
+
                 </table>
             </div>
             <!-- /.card-body -->

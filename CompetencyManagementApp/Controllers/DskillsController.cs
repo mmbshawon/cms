@@ -18,8 +18,13 @@ namespace CompetencyManagementApp.Controllers
         // GET: Dskills
         public ActionResult Index()
         {
-            var dskills = db.dskills.Include(d => d.DsCategory);
-            return View(dskills.ToList());
+            // var dskills = db.dskills.Include(d => d.DsCategory);
+            // return View(dskills.ToList());
+            AllSkillViewModels viewModel = new AllSkillViewModels();
+            viewModel.DsCategories = db.dsCategories.ToList();//first table content
+            viewModel.DmCategories = db.dmCategories.ToList(); //second table content
+            viewModel.Dskills = db.dskills.ToList();
+            return View(viewModel);
         }
 
         // GET: Dskills/Details/5

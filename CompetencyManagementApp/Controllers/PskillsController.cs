@@ -18,8 +18,14 @@ namespace CompetencyManagementApp.Controllers
         // GET: Pskills
         public ActionResult Index()
         {
-            var pskills = db.pskills.Include(p => p.PsCategory);
-            return View(pskills.ToList());
+            // var pskills = db.pskills.Include(p => p.PsCategory);
+            // return View(pskills.ToList());
+
+            AllSkillViewModels viewModel = new AllSkillViewModels();
+            viewModel.psCategories = db.psCategories.ToList();//first table content
+            viewModel.pmCategories = db.pmCategories.ToList(); //second table content
+            viewModel.pskills = db.pskills.ToList();
+            return View(viewModel);
         }
 
         // GET: Pskills/Details/5

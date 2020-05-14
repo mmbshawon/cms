@@ -1,4 +1,4 @@
-﻿@model IEnumerable<CompetencyManagement.Model.DSkillsAssignment>
+﻿@model CompetencyManagement.Model.AllSkillViewModels
 
 @{
     ViewBag.Title = "Index";
@@ -10,8 +10,8 @@
 <!-- DataTables -->
 <link rel="stylesheet" href="~/plugins/datatables-bs4/css/dataTables.bootstrap4.css">
 <div class="row">
-    <div class="col-md-2"></div>
-    <div class="col-md-8">
+    
+    <div class="col-md-12">
         <div class="col-md-6">
             <button class="btn btn-block btn-outline-warning">@Html.ActionLink("Add New Department Wise Skill", "Create")</button>
         </div>
@@ -21,43 +21,109 @@
                 <h3 class="card-title">Department Wise Skills List</h3>
             </div>
             <!-- /.card-header -->
+            <!-- /.card-header -->
             <div class="card-body">
                 <table class="table table-striped table-hover table-bordered" id="FitsTable">
                     <thead>
                         <tr>
-                            <th>Department</th>
-                            <th>Main Category</th>
-                            <th>Sub Category</th>
-                            <th>Skills</th>
-                            <th>Action</th>
+                            <th width="20%">Department</th>
+                            <th width="20%">Main Category</th>
+                            <th width="20%">Sub Category</th>
+                            <th width="20%">Skills</th>
+                            <th width="20%">Action</th>
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (var item in Model)
+                        @foreach (var departmentrow in Model.Departments)
                         {
                         <tr>
                             <td>
-                                @Html.DisplayFor(modelItem => item.Department.DepartmentName)
+
+                                @Html.DisplayFor(modelItem => departmentrow.DepartmentName)
+
                             </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.Dskill.DsCategory.DmCategory.DmCategoryName)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.Dskill.DsCategory.DsCategoryName)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.Dskill.DskillName)
-                            </td>
-                            <td>
-                                @Html.ActionLink("Update", "Edit", new { id = item.Id }) |
-                                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
-                            </td>
+                            <td colspan="4">
+                                <table width="100%" cellpadding="0" cellspacing="0">
+                                    @foreach (var deptItem in Model.DmCategories)
+                                    {
+                                        if (deptItem.Id == departmentrow.Id)
+                                        {
+
+                                            foreach (var row in Model.DmCategories)
+                                            {
+                                                <tr>
+
+                                                    <td>
+
+                                                        @Html.DisplayFor(modelItem => row.DmCategoryName)
+
+                                                    </td>
+                                                    <td colspan="3">
+
+                                                        <table width="100%" cellpadding="0" cellspacing="0">
+                                                            @foreach (var catItem in Model.DsCategories)
+                                                            {
+                                                                if (catItem.DmCategoryId == row.Id)
+                                                                {
+                                                                    <tr>
+                                                                        <td width="40%">
+                                                                            @Html.DisplayFor(modelItem => catItem.DsCategoryName)
+                                                                        </td>
+                                                                        <td width="60%">
+                                                                            <table width="100%">
+
+                                                                                @foreach (var skillItem in Model.dSkillsAssignments)
+                                                                                {
+                                                                                    if (skillItem.Dskill.DsCategoryId == catItem.Id)
+                                                                                    {
+
+                                                                                        <tr>
+                                                                                            <td width="50%">
+                                                                                                @Html.DisplayFor(modelItem => skillItem.Dskill.DskillName)
+                                                                                            </td>
+                                                                                            <td width="50%">
+                                                                                                @Html.ActionLink("Update", "Edit", new { id = skillItem.Id }) |
+                                                                                                @Html.ActionLink("Delete", "Delete", new { id = skillItem.Id })
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    }
+                                                                                }
+                                                                            </table>
+
+                                                                        </td>
+                                                                    </tr>
+                                                                }
+
+
+                                                            }
+
+                                                        </table>
+
+
+
+                                                    </td>
+
+                                                </tr>
+                                            }
+
+
+
+                                        }
+                                    }
+                                </table>
+                                </td>
                         </tr>
-                        }
+                      }
+
+
+
+
+
                     </tbody>
+
+
                 </table>
             </div>
-            <!-- /.card-body -->
         </div>
     </div>
 </div>
